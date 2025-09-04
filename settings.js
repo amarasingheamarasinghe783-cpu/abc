@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=YBYBzIhK#0wd6Hzf3MiOBnjUyo2gbvZ6xI5M1qU02KgdMnhmN5SU' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=JJoiBRrR#4jdrasEnV102e96PCkutfJvlpBkF286fP-toXsBxLDs' : process.env.SESSION_ID,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 SESSION_NAME: process.env.PORT === undefined ? "asitha" : process.env.SESSION_NAME,
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://postgres:@Asitha2005b@db.waiqbrnuxkjebghzhovz.supabase.co:5432/postgres' : process.env.POSTGRESQL_URL,
